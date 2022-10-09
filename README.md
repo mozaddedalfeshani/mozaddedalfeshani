@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaddedalfeshani&label=Profile%20views&color=0e75b6&style=flat" alt="mozaddedalfeshani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/muradian1204" target="blank"><img src="https://img.shields.io/twitter/follow/muradian1204?logo=twitter&style=for-the-badge" alt="muradian1204" /></a> </p>
 
 - 🔭 I’m currently working on **Basic Shirt's Web**
 
