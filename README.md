@@ -2,7 +2,6 @@
 <h3 align="center">Programmer Base on cpp ! Also UI designer with flutter</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaddedalfeshani&label=Profile%20views&color=0e75b6&style=flat" alt="mozaddedalfeshani" /> </p>
 
 
 - 🔭 I’m currently working on **Basic Shirt's Web**
