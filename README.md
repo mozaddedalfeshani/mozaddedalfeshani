@@ -1,26 +1,7 @@
-<!--### Hi there, I am M A Murad 👋
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Basic Shirt's Ltd
-- 🌱 I’m currently learning cpp and flutter
-- 👯 I’m looking to collaborate on YouTube
- - 🤔 I’m looking for help with ...
-- 💬 Ask me about cpp and any tech related topics
-- 📫 How to reach me: <a href="m.me/mozaddedalfeshani" target="_blank">Messenger</a>
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Nothing to say!
- -->
- 
 <h1 align="center">Hi 👋, I'm M A Murad</h1>
 <h3 align="center">Programmer Base on cpp ! Also UI designer with flutter</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaddedalfeshani&label=Profile%20views&color=0e75b6&style=flat" alt="mozaddedalfeshani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozaddedalfeshani" alt="mozaddedalfeshani" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/muradian1204" target="blank"><img src="https://img.shields.io/twitter/follow/muradian1204?logo=twitter&style=for-the-badge" alt="muradian1204" /></a> </p>
 
