@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I am M A Murad 👋
 
-<!--
-**mozaddedalfeshani/mozaddedalfeshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Basic Shirt's Ltd
+- 🌱 I’m currently learning cpp and flutter
+- 👯 I’m looking to collaborate on YouTube
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about cpp and any tech related topics
+- 📫 How to reach me: (messenger)[m.me/mozaddedalfeshani]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Nothing to say!
+ 
