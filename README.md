@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, </h1><h1 align="center">I'm M A Murad</h1>
+<h1 align="center">Hi 👋, </h1><h1 align="center">I'm </h1><h1 align="center">M A Murad</h1>
 <h3 align="center">Programmer Base on cpp ! Also UI designer with flutter</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
