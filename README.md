@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **C++ and flutter UI**
 
-- 📫 How to reach me **developer@mozaddedalfeshani**
+- 📫 How to reach me **developer.mozadded@gmail.com**
 
 - ⚡ Fun fact **Nothing To Say**
 
