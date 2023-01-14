@@ -6,15 +6,15 @@
 
 
 
-- 🔭 I’m currently working on **Basic Shirt's Web**
+- 🔭 I’m currently working on **Own Discord Bot's**
 
-- 🌱 I’m currently learning **Flutter And Advanced level of CPP**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mozaddedalfeshani](https://github.com/mozaddedalfeshani)
 
 - 📝 I regularly write articles on [https://mozaddedalfeshani.blogspot.com](https://mozaddedalfeshani.blogspot.com)
 
-- 💬 Ask me about **C++ and flutter UI**
+- 💬 Ask me about **Myself** and I will try to answer this! 
 
 - 📫 How to reach me **developer.mozadded@gmail.com**
 
