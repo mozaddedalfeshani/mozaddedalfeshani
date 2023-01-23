@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Own Discord Bot's**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mozaddedalfeshani](https://github.com/mozaddedalfeshani)
 
