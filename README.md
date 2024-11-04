@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Own Discord Bot's**
+- 🔭 I’m currently working on **React World**
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning *JS/TS and Full Stack web devs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mozaddedalfeshani](https://github.com/mozaddedalfeshani)
 
