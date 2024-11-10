@@ -1,7 +1,16 @@
+﻿
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+M+A+Murad!;&color=FF5733" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=700&duration=10000&height=45&lines=Never+trust+a+computer+you+can't+throw+out+a+window" />
+</h3>
 
 
-<h1 align="center">Hi 👋, I'm  M A Murad </h1>
-<h3 align="center">Never trust a computer you can't throw out a window </h3>
+<br/>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 
