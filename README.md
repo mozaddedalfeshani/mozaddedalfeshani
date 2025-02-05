@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working on **React World**
+- 🔭 I’m currently working on **My Own Social Application**
 
 - 🌱 I’m currently learning *JS/TS and Full Stack web devs**
 
