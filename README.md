@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **My Own Social Application**
 
-- 🌱 I’m currently learning *JS/TS and Full Stack web devs**
+- 🌱 I’m currently learning *Mobile application design and compiler design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mozaddedalfeshani](https://github.com/mozaddedalfeshani)
 
