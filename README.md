@@ -13,9 +13,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
+[My Portfolio](https://imurad.netlify.app)
 
-
-- 🔭 I’m currently working on **My Own Social Application**
+- 🔭 I’m currently working on **My Own Social Application**  
 
 - 🌱 I’m currently learning *Mobile application design and compiler design**
 
