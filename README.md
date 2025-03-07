@@ -13,14 +13,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-[My Portfolio]()
+
 
 - 🔭 I’m currently working on **My Own Social Application**  
 
 - 🌱 I’m currently learning *Mobile application design and compiler design**
 
 - 🕸️ My portfoilo [Murad - Web Developer ](https://imurad.netlify.app)
-- 
+
 - 👨‍💻 All of my projects are available at [https://github.com/mozaddedalfeshani](https://github.com/mozaddedalfeshani)
 
 - 📝 I regularly write articles on [https://mozaddedalfeshani.blogspot.com](https://mozaddedalfeshani.blogspot.com)
