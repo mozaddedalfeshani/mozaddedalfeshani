@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working on [**My Own Social Application**](https://mclx.pages.dev)  
+- 🔭 I’m currently working on [**MCLX – Community-Driven Problem Sharing and Solution Platform**](https://mclx.pages.dev)  
 
 - 🌱 I’m currently learning *Mobile application design and compiler design**
 
