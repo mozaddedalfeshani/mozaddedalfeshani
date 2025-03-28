@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mozaddedalfeshani](https://github.com/mozaddedalfeshani)
 
-- 📝 I regularly write articles on [https://mozaddedalfeshani.blogspot.com](https://mozaddedalfeshani.blogspot.com)
+- 📝 I regularly write code on Visual Studio Code
 
 - 💬 Ask me about **Myself** and I will try to answer this! 
 
@@ -91,7 +91,17 @@
   </a>
 </p>
 
+<hr>
 
+<h3 align="left">GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mozaddedalfeshani&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mozaddedalfeshani&theme=radical" alt="GitHub Streak"/>
+</p>
 
 
 
