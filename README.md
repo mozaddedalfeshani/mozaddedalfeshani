@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Myself** and I will try to answer this! 
 
-- 📫 How to reach me **developer.mozadded@gmail.com**
+- 📫 How to reach me <a href="mailto:mozaddedalfeshani@outlook.com">📫 mail</a>
 
 - ⚡ Fun fact **Nothing To Say**
 - ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mozaddedalfeshani)
