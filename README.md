@@ -96,12 +96,14 @@
 <h3 align="left">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mozaddedalfeshani&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=mozaddedalfeshani&show_icons=true&theme=radical" alt="GitHub Stats"/> -->
 </p>
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mozaddedalfeshani&theme=radical&count_private=true&locale=en" alt="GitHub Stats" />
+<!--   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mozaddedalfeshani&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=radical" alt="GitHub Stats"" /> -->
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozaddedalfeshani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en&&layout=compact&langs_count=8&card_width=320" />
+</div
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mozaddedalfeshani&theme=radical" alt="GitHub Streak"/>
-</p>
 
 
 
