@@ -97,7 +97,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mozaddedalfeshani&radius=16&theme=material&area=true&order=5" height="400"   alt="activity-graph graph"  />
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozaddedalfeshani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en&&layout=compact&langs_count=8&card_width=320" />
 
 </p>
 
