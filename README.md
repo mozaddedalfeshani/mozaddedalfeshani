@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning *Mobile application design and compiler design**
 
-- 🕸️ My portfoilo [Murad - Web Developer ](https://imurad.netlify.app)
+- 🕸️ My portfoilo [Murad - Web Developer ](https://imurad.pages.dev)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mozaddedalfeshani](https://github.com/mozaddedalfeshani)
 
