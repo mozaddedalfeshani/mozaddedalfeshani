@@ -1,33 +1,33 @@
 ﻿
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+M+A+Murad!;&color=FF5733" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+M+A+Murad!;&color=FF5733" />
 </h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=700&duration=10000&height=45&lines=Never+trust+a+computer+you+can't+throw+out+a+window" />
 </h3>
 
-
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
+- 🔭 I’m currently working at a company developing an **online video editor**, where I focus on **frontend development with Next.js**
 
+- 🌱 Currently learning **Machine Learning** and **NextJS/React more Deeply**
 
-- 🔭 I’m currently working on [**MCLX – Community-Driven Problem Sharing and Solution Platform**](https://mclx.pages.dev)  
+- 🚀 Working on [**MCLX – A Community-Driven Problem Sharing & Solution Platform**](https://mclx.pages.dev)
 
-- 🌱 I’m currently learning *Mobile application design and compiler design**
+- 🕸️ My portfolio: [imurad.pages.dev](https://imurad.pages.dev)
 
-- 🕸️ My portfoilo [Murad - Web Developer ](https://imurad.pages.dev)
+- 👨‍💻 All my projects are available on [GitHub](https://github.com/mozaddedalfeshani)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mozaddedalfeshani](https://github.com/mozaddedalfeshani)
+- 📝 I code regularly using **Visual Studio Code**
 
-- 📝 I regularly write code on Visual Studio Code
+- 💬 Ask me anything about **my work or interests**, and I’ll do my best to respond!
 
-- 💬 Ask me about **Myself** and I will try to answer this! 
+- 📫 Reach me via [Email](mailto:mozaddedalfeshani@outlook.com)
 
-- 📫 How to reach me <a href="mailto:mozaddedalfeshani@outlook.com">📫 mail</a>
 
 - ⚡ Fun fact **Nothing To Say**
 - ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mozaddedalfeshani)
