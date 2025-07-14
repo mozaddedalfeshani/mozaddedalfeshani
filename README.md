@@ -1,102 +1,83 @@
 [![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+M+A+Murad!;&color=FF5733" />
-</h1>
+#### 你好 Hello 👋 I'm Murad 🧠💻
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=700&duration=10000&height=45&lines=Never+trust+a+computer+you+can't+throw+out+a+window" />
-</h3>
+<a href="#stats" align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=mozaddedalfeshani&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=mozaddedalfeshani&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=mozaddedalfeshani&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
+  </picture>
+</a>
 
-<br/>
+> [!TIP]  
+> I’m currently a **Frontend Developer at Move37Ventures**, building intelligent web apps with **Next.js**, **React**, and working on AI-based video editing tools.  
+> Passionate about **AI, Python, full-stack development**, and building practical tools that help people.  
+> Reach me at: [mozaddedalfeshani@gmail.com](mailto:mozaddedalfeshani@gmail.com)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+---
 
-- 🔭 I’m currently working at a company developing an **online video editor**, where I focus on **frontend development with Next.js**
+#### 🚀 I work with
 
-- 🌱 Currently learning **Machine Learning** and **NextJS/React more Deeply**
+![Languages & Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,py,cpp,mongodb,prisma,firebase,docker,linux,git)
 
-- 🚀 Working on [**MCLX – A Community-Driven Problem Sharing & Solution Platform**](https://mclx.pages.dev)
+---
 
-- 🕸️ My portfolio: [imurad.pages.dev](https://imurad.pages.dev)
+#### 🧠 AI & Research
 
-- 👨‍💻 All my projects are available on [GitHub](https://github.com/mozaddedalfeshani)
+- 🐦 **Bird Detection AI** — Object detection using custom-trained ML models  
+- 🧠 **Symptom-Based Disease Predictor** — ML backend + human body click interface frontend  
+- 🔥 Published research paper on computer vision & bird detection  
+- 🛠️ Built AI EXE tools with GUI using Python + Tkinter (background remover, image augmenter)
 
-- 📝 I code regularly using **Visual Studio Code**
+---
 
-- 💬 Ask me anything about **my work or interests**, and I’ll do my best to respond!
+#### 📱 My Key Projects
 
-- 📫 Reach me via [Email](mailto:mozaddedalfeshani@outlook.com)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [MCLX](https://mclx.page.dev) | A community Q&A platform with image posts, tagging, reply & private group chat | React, Node.js, Flutter, MongoDB |
+| [MoneyBook 💸](https://github.com/mozaddedalfeshani/moneybook) | Open-source money management mobile app with offline-first DB | React Native, WatermelonDB |
+| [MCLXKey 🔐](https://github.com/mozaddedalfeshani/mclxkey) | Auth-as-a-Service for apps via simple API endpoints | Node.js, Express, MongoDB |
+| [SmartWallet](https://github.com/mozaddedalfeshani/smartwallet) | Wallet app with financial insights and budget tracking | Flutter |
+| [Roomify](https://github.com/mozaddedalfeshani/roomify) | Hotel booking system with dashboard and management | React.js, Node.js, Firebase |
+| [WanderWise](https://github.com/mozaddedalfeshani/wanderwise) | Tourism & booking system with map, reviews, and admin tools | MERN Stack |
 
+---
 
-- ⚡ Fun fact **Nothing To Say**
-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mozaddedalfeshani)
+#### 📢 Tech Talks / Public Contributions (Coming Soon...)
 
-<h3 align="left">Connect with me:</h3>
+> Will share public sessions, hackathon results, and demo day events here. Stay tuned!
 
-<p align="left">
-<a href="https://twitter.com/muradian1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muradian1204" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
-<a href="https://fb.com/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
-<a href="https://instagram.com/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
-<a href="https://dribbble.com/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/murad15_6047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools: Some forgetting ....</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
+#### 🎯 Goals
 
-<hr>
+- ✅ Master React Native & Python-based AI backend development  
+- ✅ Build an open-source multi-agent AI assistant  
+- 🔜 Contribute to AI infrastructure or tools at **OpenAI**, **DeepMind**, or **Hugging Face**  
+- 🌐 Launch a personal SaaS for AI-based utilities
 
-<h3 align="left">GitHub Stats</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mozaddedalfeshani&radius=16&theme=material&area=true&order=5" height="400"   alt="activity-graph graph"  />
+---
 
-<p align="center">
+#### 🌐 Connect with me
 
-</p>
+- 🔗 [Portfolio](https://imurad.netlify.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mozaddedalfeshani/)
+- 🐙 [GitHub](https://github.com/mozaddedalfeshani)
+- 💬 [Facebook](https://facebook.com/imurad.12)
+
+---
+
+#### 💬 বাংলা & English — Fluent speaker 🇧🇩🌍  
+> I love contributing to Bangladeshi dev community & building tech that matters.
+
 
 
 
