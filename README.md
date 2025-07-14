@@ -2,19 +2,12 @@
 
 #### 你好 Hello 👋 I'm Murad 🧠💻
 
-<a href="#stats" align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=mozaddedalfeshani&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mozaddedalfeshani&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=mozaddedalfeshani&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
-  </picture>
-</a>
+
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=700&duration=10000&height=45&lines=Never+trust+a+computer+you+can't+throw+out+a+window" />
+</h3>
+
 
 > [!TIP]  
 > I’m currently a **Frontend Developer at Move37Ventures**, building intelligent web apps with **Next.js**, **React**, and working on AI-based video editing tools.  
