@@ -56,10 +56,6 @@
 
 ---
 
-#### 📢 Tech Talks / Public Contributions (Coming Soon...)
-
-> Will share public sessions, hackathon results, and demo day events here. Stay tuned!
-
 ---
 
 #### 🎯 Goals
@@ -73,7 +69,7 @@
 
 #### 🌐 Connect with me
 
-- 🔗 [Portfolio](https://imurad.netlify.app)
+- 🔗 [Portfolio](https://imurad.pages.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mozaddedalfeshani/)
 - 🐙 [GitHub](https://github.com/mozaddedalfeshani)
 - 💬 [Facebook](https://facebook.com/imurad.12)
