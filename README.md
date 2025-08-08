@@ -12,7 +12,7 @@
 > [!TIP]  
 > I’m currently a **Frontend Developer at Move37Ventures**, building intelligent web apps with **Next.js**, **React**, and working on AI-based video editing tools.  
 > Passionate about **AI, Python, full-stack development**, and building practical tools that help people.  
-> Reach me at: [mozaddedalfeshani@hotmail.com](mailto:mozaddedalfeshani@hotmail.com) </br>
+> Reach me at: [mozaddedalfeshani@outlook.com](mailto:mozaddedalfeshani@outlook.com) </br>
 > **Portfolio:** [imurad.pages.dev](https://imurad.pages.dev)
 
 
