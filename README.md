@@ -29,7 +29,8 @@
 
 - 🐦 **Bird Detection AI** — Object detection using custom-trained ML models  
 - 🧠 **Symptom-Based Disease Predictor** — ML backend + human body click interface frontend  
-- 🔥 Published research paper on computer vision & bird detection  
+- 🔥 Published research paper on computer vision & bird detection
+- 🥼 New Project Comming
 - 🛠️ Built AI EXE tools with GUI using Python + Tkinter (background remover, image augmenter)
 
 ---
