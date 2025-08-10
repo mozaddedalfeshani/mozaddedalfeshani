@@ -39,6 +39,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [CVD Prediction AI](https://github.com/mozaddedalfeshani/cvd-risk-prediction-ai)| A web based CVD Disease prediction tool , Running with dual Trained Model | Advanced Ensemble with LightGBM Baseline	 |
 | [MCLX](https://mclx.page.dev) | A full-stack Q&A platform (closed-source) with image posts, tagging, follow system, replies, private group messaging | React, Flutter, Node.js, Express.js, MongoDB |
 | [MoneyBook 💸](https://github.com/mozaddedalfeshani/moneybook) | Open-source offline-first money management app with local DB, sleek UI, and live balance | React Native, WatermelonDB |
 | [MCLXKey 🔐](https://github.com/mozaddedalfeshani/mclxkey) | Auth-as-a-Service providing secure API endpoints for quick integration | Node.js, Express, MongoDB |
