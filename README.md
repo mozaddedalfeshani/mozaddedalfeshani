@@ -1,5 +1,5 @@
 [![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mozaddedalfeshani)
 #### 你好 Hello 👋 I'm Murad 🧠💻
 
 
