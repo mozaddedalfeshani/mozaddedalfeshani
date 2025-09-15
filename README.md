@@ -22,7 +22,7 @@
 
 #### 🚀 I work with
 
-![Languages & Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,py,cpp,postgres,mongodb,prisma,firebase,docker,linux,git)
+![Languages & Frameworks](https://skillicons.dev/icons?i=python,pytorch,react,nextjs,nodejs,express,flutter,tailwind,cpp,postgres,mongodb,prisma,firebase,docker,linux)
 
 
 ---
