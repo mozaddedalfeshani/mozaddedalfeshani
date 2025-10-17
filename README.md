@@ -10,7 +10,7 @@
 
 
 > [!TIP]
-> 🚀 Founder of **DipChat AI** and **Kothos** (a Slack + WhatsApp–style platform), two of the most popular platforms I’ve built.  
+> 🚀 Founder of **Home UI for Browser** , **DipChat AI** and **Kothos** (a Slack + WhatsApp–style platform), two of the most popular platforms I’ve built.  
 > I’m currently a **Frontend Developer at Move37Ventures**, building intelligent web apps with **Next.js**, **React** , and working on AI-based video editing tools and education platform.
 > Gathering knowledge is my first priority.  
 > Passionate about **AI, Python, full-stack development**, and building practical tools that help people.
