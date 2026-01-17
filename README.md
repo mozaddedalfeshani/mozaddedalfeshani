@@ -1,29 +1,25 @@
 [![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mozaddedalfeshani)
+
 #### 你好 Hello 👋 I'm Murad 🧠💻
-
-
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=700&duration=10000&height=45&lines=Never+trust+a+computer+you+can't+throw+out+a+window" />
 </h3>
 
-
 > [!TIP]
-> 🚀 Founder of **Home UI for Browser** , **DipChat AI** and **Kothos** (a Slack + WhatsApp–style platform), two of the most popular platforms I’ve built.  
-> I’m currently a **Frontend Developer at Move37Ventures**, building intelligent web apps with **Next.js**, **React** , and working on AI-based video editing tools and education platform.
-> Gathering knowledge is my first priority.  
-> Passionate about **AI, Python, full-stack development**, and building practical tools that help people.
+> 🚀 Founder of **AbabilX**, **ALX AI**, and **Kothos** (a Slack + WhatsApp–style communication platform).  
+> I’m currently a **Frontend Developer at Move37Ventures**, building intelligent and scalable web applications with **Next.js** and **React**, and working on AI-powered products including video editing tools and education platforms.  
+> Learning and exploring new technologies is my top priority.  
+> Passionate about **AI, Python, full-stack development**, and building practical tools that solve real-world problems.  
 > Reach me at: [mozaddedalfeshani@outlook.com](mailto:mozaddedalfeshani@outlook.com) </br>
-> **Portfolio:** [imurad.pages.dev](https://imurad.pages.dev)
-
+> **Portfolio:** [imurad.me](https://imurad.me)
 
 ---
 
 #### 🚀 I work with
 
 ![Languages & Frameworks](https://skillicons.dev/icons?i=python,pytorch,react,nextjs,nodejs,express,rust,flutter,tailwind,postgres,mongodb,prisma,firebase,docker,linux)
-
 
 ---
 
@@ -32,7 +28,7 @@
 - 🐦 **Bird Detection AI** — Object detection using custom-trained ML models  
 - 🧠 **Symptom-Based Disease Predictor** — ML backend + human body click interface frontend  
 - 🔥 Published research paper on computer vision & bird detection
-- 🥼 New Project Comming
+- 🥼 New Project Coming
 - 🛠️ Built AI EXE tools with GUI using Python + Tkinter (background remover, image augmenter)
 
 ---
@@ -41,7 +37,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [CVD Prediction AI](https://github.com/mozaddedalfeshani/cvd-risk-prediction-ai)| A web based CVD Disease prediction tool , Running with dual Trained Model | Advanced Ensemble with LightGBM Baseline	 |
+| [CVD Prediction AI](https://github.com/mozaddedalfeshani/cvd-risk-prediction-ai)| A web based CVD Disease prediction tool , Running with dual Trained Model | Advanced Ensemble with LightGBM Baseline |
 | [MCLX](https://mclx.page.dev) | A full-stack Q&A platform (closed-source) with image posts, tagging, follow system, replies, private group messaging | React, Flutter, Node.js, Express.js, MongoDB |
 | [MoneyBook 💸](https://github.com/mozaddedalfeshani/moneybook) | Open-source offline-first money management app with local DB, sleek UI, and live balance | React Native, WatermelonDB |
 | [MCLXKey 🔐](https://github.com/mozaddedalfeshani/mclxkey) | Auth-as-a-Service providing secure API endpoints for quick integration | Node.js, Express, MongoDB |
@@ -59,8 +55,9 @@
 | [Visa Navigator](https://github.com/mozaddedalfeshani/p10-visanavigator) | Visa info portal with application tracking, Google auth, and admin controls | React, Node.js, Firebase, MongoDB |
 | [Lingo Bingo](https://github.com/mozaddedalfeshani/p9-VocabularyLearning) | Language learning app with gamified lessons, user dashboard, and multi-language support | React, Node.js, MongoDB |
 | Expense Tracker 🔒 | Mobile app for tracking daily expenses (closed project) | React Native, Firebase |
-
----
+| [Home UI for Browser](https://github.com/AbabilX/Home-UI-for-Browser) | A beautiful, customizable, and fast personal homepage that provides quick access to your favorite websites. | HTML, CSS, JavaScript |
+| [Transformate](https://github.com/AbabilX/Transformate) | Free unlimited file converter using WebAssembly and FFmpeg. | WebAssembly, FFmpeg |
+| [Ababil Studio](https://github.com/AbabilX/Ababil-Studio) | ⚡ High-performance, Rust-powered open-source API development platform. A lightweight, privacy-focused, and blazing-fast alternative to Postman built with React 19, Tailwind CSS, and Electron. | Rust, React 19, Tailwind CSS, Electron |
 
 ---
 
@@ -82,13 +79,6 @@
 
 ---
 
-#### 💬 বাংলা & English — Fluent speaker 🇧🇩🌍  
-> I love contributing to Bangladeshi dev community & building tech that matters.
+#### 💬 Bangla & English — Fluent speaker 🇧🇩🌍  
 
-
-
-
-
-
-
-
+> I love contributing to the Bangladeshi developer community and building tech that truly matters.
