@@ -3,6 +3,7 @@
 
 #### 你好 Hello 👋 I'm Murad 🧠💻
 
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=700&duration=10000&height=45&lines=Never+trust+a+computer+you+can't+throw+out+a+window" />
 </h3>
@@ -25,7 +26,7 @@
 ![Languages & Frameworks](https://skillicons.dev/icons?i=python,pytorch,react,nextjs,nodejs,express,rust,flutter,tailwind,postgres,mongodb,prisma,firebase,docker,linux)
 
 ---
-
+##### Code is poetry, and every commit tells a story
 #### 🧠 AI & Research
 
 - 🐦 **Bird Detection AI** — Object detection using custom-trained ML models
