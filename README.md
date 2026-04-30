@@ -9,7 +9,7 @@
 </h3>
 
 > [!TIP]
-> Founder of **M Paper** & **AbabilX**.  
+> Founder of **[M Paper](https://paper.imurad.me)** & **[LocalSlack](localslack.imurad.me)**.  
 > I’m currently a **Frontend Developer at Move37Ventures**, building intelligent and scalable web applications with **Next.js** and **React**, and working on AI-powered products including video editing tools and education platforms.  
 > Learning and exploring new technologies is my top priority.  
 > Passionate about **AI, Python, full-stack development**, and building practical tools that solve real-world problems.  
