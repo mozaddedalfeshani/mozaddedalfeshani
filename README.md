@@ -10,7 +10,7 @@
 > [!TIP]
 > ### 🚀 Founder & Software Engineer
 >
-> 🐦 Founder of **[AbabilX](https://ababilx.cloud)** — a unified workspace and automation platform featuring **GitHub & Slack automation, project boards, team timelines, wall updates, messaging, CRM, attendance, search, and team collaboration**.
+> 🐦 Founder of **[AbabilX](https://ababilx.com)** — a unified workspace and automation platform featuring **GitHub & Slack automation, project boards, team timelines, wall updates, messaging, CRM, attendance, search, and team collaboration**.
 >
 > 💼 Currently working as a **Software Engineer at BrainStrata**, building intelligent, accessible, and scalable web applications with **Next.js, React, TypeScript, Node.js, and modern AI technologies**.
 >
